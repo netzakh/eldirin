@@ -115,8 +115,8 @@ IPA | Written | Comments
 1. No consonant clusters are permitted word-finally
 1. A long vowel (recall that this includes diphthongs) cannot be followed by a consonant cluster except **qu**
 1. The following three-consonant clusters are permitted medially: **ngw** `ŋɡw`, **nqu** `ŋkw`, **rqu**, **lqu**, **squ**
-1. Clusters ending with `w` (including **qu** but not **hw**, which is not a cluster) cannot be followed by `u` of any kind (i.e., **u**, **ú**, **ui**); however, single **w** or **hw** can be followed by these vowels
-1. Clusters ending with `j` or `ç` (**my**, **ry**, **py**, but not the combinations denoting unitary palatal consonants, and not clusters ending in other palatal consonants) cannot be followed by `i` of any kind (i.e., **i**, **í**, **iu**); however, single **y** or **hy** can be followed by these vowels
+1. Clusters ending with `w` (including **qu** but not **hw**, which is not a cluster) cannot be followed by `u` of any kind (i.e., **u**, **ú**, **ui**); however, a single **w** or **hw** can be followed by these vowels
+1. Clusters ending with `j` or `ç` (**my**, **ry**, **py**, but not the combinations denoting unitary palatal consonants, and not clusters ending in other palatal consonants) cannot be followed by `i` of any kind (i.e., **i**, **í**, **iu**); however, a single **y** or **hy** can be followed by these vowels
 
 ### Two-consonant clusters
 
@@ -137,6 +137,6 @@ IPA | Written | Comments
 + Convention used on some pages here (especially declension and conjugation): the grave accent denotes a stressed short vowel or a stressed first element of a diphthong: **lòssë** "four", **màiquë** "eleven"
 + The circumflex accent (i.e., acute + grave) denotes a stressed plain long vowel: **nyâvë** "six"
 + This stress accent supersedes the diaeresis (which is just a decoration used for the same reasons an in Quenya)
-+ More than one syllable can be stressed; then the prime stress is the last one, e.g. Quenya loanword **lámatyávë** is stressed **lâmatyâvë**
++ More than one syllable can be stressed; then the primary stress is the last one, e.g. Quenya loanword **lámatyávë** is stressed **lâmatyâvë** `ˌlaːmaˈcaːve`
 + Rules are similar to Quenya, the biggest exception being that the last syllable can be stressed if it has a long vowel followed by a consonant: **Eldirîn** (marked accusative of the language name, **Èldirin**)
 + Stress is the area where formal and colloquial usage differ most
