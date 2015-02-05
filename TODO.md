@@ -4,7 +4,7 @@
 
 * pronouns, conjunctions, ...
 * nouns
-* verbs
+* more on verbs
 * adjectives
 * more numerals
 * more examples
