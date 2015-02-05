@@ -70,3 +70,4 @@ Only most common outcomes are listed.
   + Examples: **veþþam** "ending of a book/story/play/etc." < *bertlham*, **ampar** "academy" < *'ampaS*
 + Note that a non-basic Klingon root may turn into a basic Eldirin one
   + Examples: **firyo** "cat" < *vighro'*, **lusquë** "school" < *DuSaQ*
+  + The opposite is also possible, though very rare: **andyang** "enemy" < *jagh*
