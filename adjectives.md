@@ -16,6 +16,7 @@
 
 + Adjectives can be used as verbs (using the copula is not correct in such cases)
 + Examples: **hwallem** "we are smart", **panwes** "it is urgent", **el fëo tínes** "the city is big"
++ Imperatives end in **-p** (even for adjectives not ending in **-ë**): **hwallep** "be smart!"
 
 ## Similes
 
