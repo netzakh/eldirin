@@ -3,7 +3,7 @@
 * pronouns, conjunctions, ...
 * nouns
 * more on verbs
-* adjectives
+* more on adjectives
 * more numerals
 * more examples
 * syntax
