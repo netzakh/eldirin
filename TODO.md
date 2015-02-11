@@ -1,5 +1,7 @@
 # TODO List
 
+* add licence to the disclaimer
+
 * pronouns, conjunctions, ...
 * nouns
 * more on verbs
