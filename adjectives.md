@@ -36,5 +36,5 @@
 ### Superlative
 
 + Positive superlative: **lahtyë**, e.g. **lahtyë tínë fëo** "the biggest city"
-+ Negative superlative: **puxë**, e.g. **puxë quippë Orcu** "the stupidest orc"
++ Negative superlative: **puxë**, e.g. **puxë hwallë Orcu** "the least clever orc"
 + No article is used (redundant with superlatives)
