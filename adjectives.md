@@ -20,7 +20,7 @@
 
 ## Similes
 
-+ TBA
++ Basic simile: the essive case is used, e.g. **el vitsë luines _tyalloru_** "the river is as blue _as the sky_"
 
 ## Comparison
 
