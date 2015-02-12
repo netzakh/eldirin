@@ -5,7 +5,7 @@
 + Eldirin nouns change in number and case
 + There are two numbers: singular and plural
 + There are four basic noun cases: unmarked, nominative, accusative, and genitive
-+ There are TBD other noun cases: dative, locative, instrumental, ablative, allative
++ There are six other noun cases: dative, locative, instrumental, ablative, allative, essive (equative)
 + In addition, possessive suffixes can be added
 + The citation form is the unmarked singular
 
