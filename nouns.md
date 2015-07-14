@@ -33,11 +33,11 @@ Note that some nouns in **-ë** follow the "main type" declension, and some noun
 + Sentient **-i**: **-ú** replacing **-i**: **Eldi** "elf" → **Eldú**
 + Consonant (**-a**, **-n**): **-i** with a possible stem change: **ampar** "academy" → **ampari**, **cilbas** "dog" → **cilbaxi**
   + Sentient nouns of this type might have **-u** instead of **-i**
-+ Irregular: e.g. **mín** "eye" → **mindu**
++ Irregular: e.g. non-productive formations like **mín** "eye" → **mindu** or suppletive plurals like **hot** "person" → **ronwo**, **lot** "thing" → **nyolyi** (some suppletive plurals are grammatically singular)
 
 ## Basic Noun Cases
 
-### Unmarked Case
+### Unmarked Case (U.)
 
 In singular, this is the citation form of the noun.
 
@@ -47,11 +47,34 @@ In singular, this is the citation form of the noun.
 + After numerals and some other (non-adjectival) qualifiers; it is the numeral/qualifier which is declined
 + After prepositions
 
-### Nominative
+### Nominative (N.)
 
-### Accusative
+Formation:
 
-### Genitive
++ If U. ends in a vowel, then N. is formed by adding **-r**: **fëo** → **fëor**, **Eldi** → **Eldir**, **fëomi** → **fëomir**, **mindu** → **mindur**
++ If this vowel is long, then N. is stressed on the last syllable according to the stress rules: **Èldú** → **Eldûr** (formal), **nêvinyí** → **nêvinyîr** (formal and colloquial; note that the original stress remains as secondary)
+  + However, if U. is stressed on the penult, there is usually no stress shift in colloquial: **Èldú** → **Èldúr** (but **formen** "north" → always **formêr**, same for the other directions)
++ Consonant **-a** stems in singular add **-ar** with the same stem change as in plural: **amparar**, **cilbaxar** (U.pl. ends in a vowel, so N.pl. is just U.pl. plus **-r**: **amparir**)
++ Consonant **-n** stems in singular lengthen the vowel before **-n** and replace **-n** with **-r**: **Èldirin** → **Eldirîr**, **vóren** "bird" → **vórêr** (formal) / **vôrér** (colloquial)
++ Irregular nouns behave "regularly": **mínar**, **lotar**, **nyolyir**
+
+Usage:
+
++ The subject of a transitive verb when the order is not SVO.
++ The subject of any verb when emphasis is needed.
+
+### Accusative (A.)
+
+Formation:
+
++ As N. with **-n** instead of **-r**: **fëon**, **fëomin**, **Eldûn** / **Èldún**, **Eldirîn**, **lotan**
+
+Usage:
+
++ The object of a transitive verb when the order is not SVO.
++ The object of a transitive verb when emphasis is needed.
+
+### Genitive (G.)
 
 ## Other Noun Cases
 
@@ -63,7 +86,7 @@ For 1st person plural, archaic **-mm-** might occur instead of **-nd-**.
 
 ### Non-sentient Nouns
 
-The resulting nouns are special **-ë** stems.
+The resulting nouns are special **-ë** stems. The plural of **-ryë** is **-ri**.
 
 | Person | Singular | Plural |
 |:---|:---|:---|
@@ -73,10 +96,10 @@ The resulting nouns are special **-ë** stems.
 
 ### Sentient Nouns
 
-The resulting nouns are sentient **-i** stems.
+The resulting nouns are sentient **-i** stems. The plural of **-ri** is **-ryu**.
 
 | Person | Singular | Plural |
 |:---|:---|:---|
 | 1st | **-nyi** | **-ndi** | 
 | 2nd | **-lyi** | **-ldi** | 
-| 3rd | **-ryi** | **-rdi** | 
+| 3rd | **-ri** | **-rdi** | 
