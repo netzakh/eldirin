@@ -17,13 +17,13 @@ Stress is marked as described in the phonology section.
 
 In the following table, Realis-F is formal, Realis-C is colloquial (as usual, colloquial forms resist one-syllable stress shifts to a higher extent).
 
-|| Future | Realis-F | Realis-C | Irrealis |
-|:---|:---|:---|:---|:---|
-| 1s | **nyàldavang** | **nyaldàntyu** | **nyàldantyu** | **nyàldatàntyu** |
-| 2s | **nyàldalang** | **nyaldàltyu** | **nyàldaltyu** | **nyàldatàltyu** |
-| 3s | **nyàldayang**, **nyàldang**  | **nyàldatyu** | **nyàldatyu** | **nyàldatâtyu** |
-| 1p | **nyàldamang** | **nyaldàmyu** | **nyàldamyu** | **nyàldatàmyu** |
-| 2p | **nyàldalang** | **nyaldàltyu** | **nyàldaltyu** | **nyàldatàltyu** |
-| 3p | **nyàldarang** | **nyaldàrtyu** | **nyàldartyu** | **nyàldatàrtyu** |
+|| Future | Future in the Past | Realis-F | Realis-C | Irrealis |
+|:---|:---|:---|:---|:---|:---|
+| 1s | **nyàldavang** | **nyàldatâvang** | **nyaldàntyu** | **nyàldantyu** | **nyàldatàntyu** |
+| 2s | **nyàldalang** | **nyàldatâlang** | **nyaldàltyu** | **nyàldaltyu** | **nyàldatàltyu** |
+| 3s | **nyàldayang**, **nyàldang**  | **nyàldatang** | **nyàldatyu** | **nyàldatyu** | **nyàldatâtyu** |
+| 1p | **nyàldamang** | **nyàldatâmang** | **nyaldàmyu** | **nyàldamyu** | **nyàldatàmyu** |
+| 2p | **nyàldalang** | **nyàldatâlang** | **nyaldàltyu** | **nyàldaltyu** | **nyàldatàltyu** |
+| 3p | **nyàldarang** | **nyàldatârang** | **nyaldàrtyu** | **nyàldartyu** | **nyàldatàrtyu** |
 
 Imperative: **nyàldai**
