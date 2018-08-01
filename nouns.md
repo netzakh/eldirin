@@ -86,7 +86,7 @@ For 1st person plural, archaic **-mm-** might occur instead of **-nd-**.
 
 ### Non-sentient Nouns
 
-The resulting nouns are special **-ë** stems. The plural of **-ryë** is **-ri**.
+The resulting nouns are special **-ë** stems. The plural of **-ryë** is **-rí**.
 
 | Person | Singular | Plural |
 |:---|:---|:---|
@@ -96,7 +96,7 @@ The resulting nouns are special **-ë** stems. The plural of **-ryë** is **-ri*
 
 ### Sentient Nouns
 
-The resulting nouns are sentient **-i** stems. The plural of **-ri** is **-ryu**.
+The resulting nouns are sentient **-i** stems. The plural of **-ri** is **-ryú**.
 
 | Person | Singular | Plural |
 |:---|:---|:---|
