@@ -38,21 +38,21 @@ Only most common outcomes are listed.
 | Klingon | as *C1* | as *C2* | Notes, Examples |
 |:---|:---|:---|:---|
 | *b* | **v-**, **umb-** | **-mb-** | |
-| *ch* | **ty-** | **-ty-** | |
+| *ch* | **ty-** | **-ty-**, **-nty-** | |
 | *D* | **l-**, **and-** | **-nd-**, **-r-** | |
-| *gh* | **h-**, **ang-** | **-ng-** | |
-| *H* | **c-** | **-c-** | |
+| *gh* | **h-**, **ong-** | **-ng-** | |
+| *H* | **c-** | **-c-**, **-nc-** | |
 | *j* | **ny-**, **indy-** | **-ndy-**, **-ny-** | |
 | *l* | **l-** | **-l-** | |
 | *m* | **m-** | **-m-** | |
 | *n* | **n-** | **-n-** | |
 | *ng* | **ng-** | **-** | Disappears medially: **fëo** "city" < *veng* |
-| *p* | **p-** | **-p-** | |
+| *p* | **p-** | **-p-**, **-mp-** | |
 | *q* | **ngw-**, **hw-** | **-ngw-** | |
-| *Q* | **qu-** | **-qu-** | |
+| *Q* | **qu-** | **-qu-**, **-nqu-** | |
 | *r* | **r-** | **-r-** | |
 | *S* | **s-** | **-s-** | |
-| *t* | **t-** | **-t-** | |
+| *t* | **t-** | **-t-**, **-nt-** | |
 | *tlh* | **þ-** | **-ld-** | **þulda-** "drink" < *tlhutlh* |
 | *v* | **f-**, **hw-**, **v-** | **-f-**, **-nw-**, **-v-** | |
 | *w* | **w-**, **v-** | **-u+** | Forms a diphthong, with a possible root expansion  |
