@@ -38,6 +38,8 @@ IPA | Written | Comments
 
 + **ui** is one syllable, not two
 + **iu** is _falling_ (_not_ `**ju`)
++ `ɪ` of the diphthongs can vary between `i`, `e`, and `ɪ`
++ `ʊ` of the diphthongs can vary between `u`, `o`, and `ʊ`
 
 ## Consonants
 
@@ -113,7 +115,7 @@ IPA | Written | Comments
 1. The following consonants can occur word-finally: **m**, **n**, **ng**, **r**, **l**, **p** (rare), **t**, **c** (rare), **s**
 1. The following consonant clusters can occur word-initially: **qu**, **ngw** (word-initial **ng** is a single consonant `ŋ`)
 1. No consonant clusters are permitted word-finally
-1. A long vowel (recall that this includes diphthongs) cannot be followed by a consonant cluster except **qu**
+1. A long vowel (recall that this includes diphthongs) cannot be followed by a consonant cluster except **qu**, and, in one grammatically restricted case, **ry**
 1. The following three-consonant clusters are permitted medially: **ngw** `ŋɡw`, **nqu** `ŋkw`, **rqu**, **lqu**, **squ**
 1. Clusters ending with `w` (including **qu** but not **hw**, which is not a cluster) cannot be followed by `u` of any kind (i.e., **u**, **ú**, **ui**); however, a single **w** or **hw** can be followed by these vowels
 1. Clusters ending with `j` or `ç` (**my**, **ry**, **py**, but not the combinations denoting unitary palatal consonants, and not clusters ending in other palatal consonants) cannot be followed by `i` of any kind (i.e., **i**, **í**, **iu**); however, a single **y** or **hy** can be followed by these vowels
