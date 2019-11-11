@@ -61,6 +61,7 @@ Formation:
 Usage:
 
 + The subject of a transitive verb when the order is not SVO.
++ The subject of an intransitive verb put after the verb.
 + The subject of any verb when emphasis is needed.
 
 ### Accusative (A.)
