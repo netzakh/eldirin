@@ -1,22 +1,22 @@
 # Adjectives
 
-## General
+## Adjectives Are Verbs
 
-+ Adjectives, unless used as verbs, are placed before the noun they modify
-+ Adjectives are indeclinable
++ As in Klingon, adjectives are verbs in Eldirin. Using the copula to seay "X is A", where "A" is an adjective, is not correct.
++ Examples: **hwallem** "we are smart", **panwes** "it is urgent", **el fëo tínes** "the city is big"
 + Most adjectives end in **-ë**
++ Imperatives end in **-p** (even for adjectives not ending in **-ë**): **hwallep** "be smart!"
+
+## Adjectives before Nouns
+
++ Adjectives can be placed before the noun they modify (de facto, such adjectives are participles without the **-vë** ending)
++ Adjectives are indeclinable
 + Examples: **ngwinyë firyo** "black cat", **tínë fëomi** "big cities", **cúpë Eldivan** "young elf (dative)"
 
 ## Adjectives and the Article
 
 + Formally, the article, if used, immediately precedes the noun: **ngwinyë el firyo** "the black cat"
 + Colloquially, **el ngwinyë firyo** might occur as well
-
-## Adjectives Are Verbs
-
-+ As in Klingon, adjectives are verbs in Eldirin. Using the copula to seay "X is A", where "A" is an adjective, is not correct.
-+ Examples: **hwallem** "we are smart", **panwes** "it is urgent", **el fëo tínes** "the city is big"
-+ Imperatives end in **-p** (even for adjectives not ending in **-ë**): **hwallep** "be smart!"
 
 ## Similes
 
