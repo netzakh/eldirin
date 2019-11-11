@@ -19,11 +19,11 @@ In the following table, Realis-F is formal, Realis-C is colloquial (as usual, co
 
 || Future | Future in the Past | Realis-F | Realis-C | Irrealis |
 |:---|:---|:---|:---|:---|:---|
-| 1s | **nyàldavang** | **nyàldatâvang** | **nyaldàntyu** | **nyàldantyu** | **nyàldatàntyu** |
-| 2s | **nyàldalang** | **nyàldatâlang** | **nyaldàltyu** | **nyàldaltyu** | **nyàldatàltyu** |
-| 3s | **nyàldayang**, **nyàldang**  | **nyàldatang** | **nyàldatyu** | **nyàldatyu** | **nyàldatâtyu** |
-| 1p | **nyàldamang** | **nyàldatâmang** | **nyaldàmyu** | **nyàldamyu** | **nyàldatàmyu** |
-| 2p | **nyàldalang** | **nyàldatâlang** | **nyaldàltyu** | **nyàldaltyu** | **nyàldatàltyu** |
-| 3p | **nyàldarang** | **nyàldatârang** | **nyaldàrtyu** | **nyàldartyu** | **nyàldatàrtyu** |
+| 1s | **nyàldavang** | **nyàldatāvang** | **nyaldàntyu** | **nyàldantyu** | **nyàldatàntyu** |
+| 2s | **nyàldalang** | **nyàldatālang** | **nyaldàltyu** | **nyàldaltyu** | **nyàldatàltyu** |
+| 3s | **nyàldang**, **nyàldayang**  | **nyàldatang** | **nyàldatyu** | **nyàldatyu** | **nyàldatātyu** |
+| 1p | **nyàldamang** | **nyàldatāmang** | **nyaldàmyu** | **nyàldamyu** | **nyàldatàmyu** |
+| 2p | **nyàldalang** | **nyàldatālang** | **nyaldàltyu** | **nyàldaltyu** | **nyàldatàltyu** |
+| 3p | **nyàldarang** | **nyàldatārang** | **nyaldàrtyu** | **nyàldartyu** | **nyàldatàrtyu** |
 
 Imperative: **nyàldai**
