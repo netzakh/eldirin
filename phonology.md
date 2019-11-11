@@ -147,7 +147,7 @@ IPA | Written | Comments
 
 Like Quenya, Eldirin resists stress shifts by one syllable when flexions are added, so the outcome might be a shift by TWO syllables. For example, the (unmarked) plural of **firyo** "cat" is **firyomi**, and the dative is generally formed by **-van**. Adding this ending would result in \*_firyomivan_, which would be stressed on _-yo-_. To avoid this, the stress shifts to the next syllable, which is lengthened: **firyomívan** (and the original stressed stem vowel receives a secondary stress).
 
-Such lengthened vowels can only occur in the penultimate syllable of a word, and are denoted in some pages by the macron accent, so **firyomívan** is stressed **fîryomīvan**.
+Such lengthened vowels can only occur in the penultimate syllable of a word, and are denoted in some pages by the macron accent (though the acute is still used in normal Eldirin texts), so **firyomívan** is stressed **fîryomīvan**.
 
 Note than this stress shift can occur in the "dictionary" form of a word, including non-derived words, e.g. **andālë** "dull".
 
