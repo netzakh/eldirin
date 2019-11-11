@@ -136,7 +136,7 @@ IPA | Written | Comments
 ## Stress
 
 + Stress is usually not shown in orthography
-+ Convention used on some pages here (especially declension and conjugation): the grave accent denotes a stressed short vowel or a stressed first element of a diphthong: **lòssë** "four", **màiquë** "eleven"
++ Convention used in some pages here (especially declension and conjugation): the grave accent denotes a stressed short vowel or a stressed first element of a diphthong: **lòssë** "four", **màiquë** "eleven"
 + The circumflex accent (i.e., acute + grave) denotes a stressed plain long vowel: **nyâvë** "six"
 + This stress accent supersedes the diaeresis (which is just a decoration used for the same reasons an in Quenya)
 + More than one syllable can be stressed; then the primary stress is the last one, e.g. Quenya loanword **lámatyávë** is stressed **lâmatyâvë** `ˌlaːmaˈcaːve`
@@ -146,6 +146,9 @@ IPA | Written | Comments
 ## Stress Shift
 
 Like Quenya, Eldirin resists stress shifts by one syllable when flexions are added, so the outcome might be a shift by TWO syllables. For example, the (unmarked) plural of **firyo** "cat" is **firyomi**, and the dative is generally formed by **-van**. Adding this ending would result in \*_firyomivan_, which would be stressed on _-yo-_. To avoid this, the stress shifts to the next syllable, which is lengthened: **firyomívan** (and the original stressed stem vowel receives a secondary stress).
-Such lengthened vowels can only occur in the penultimate syllable of a word, and are denoted by a macron accent, so **firyomívan** is stressed **fîryomīvan**.
+
+Such lengthened vowels can only occur in the penultimate syllable of a word, and are denoted in some pages by the macron accent, so **firyomívan** is stressed **fîryomīvan**.
+
 Note than this stress shift can occur in the "dictionary" form of a word, including non-derived words, e.g. **andālë** "dull".
+
 When more syllables are added to such a word, the vowel reverts to short, e.g. **andàletas** "it was dull".
