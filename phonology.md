@@ -106,7 +106,7 @@ IPA | Written | Comments
 `s` | **s** |
 `ç` | **hy** | unitary
 `x~h` | **h** | `h` word-initially, `x` otherwise
-`ʍ` | **hw** |
+`ʍ` | **hw** | unitary
 
 ## Phonotactics
 
@@ -142,3 +142,10 @@ IPA | Written | Comments
 + More than one syllable can be stressed; then the primary stress is the last one, e.g. Quenya loanword **lámatyávë** is stressed **lâmatyâvë** `ˌlaːmaˈcaːve`
 + Rules are similar to Quenya, the biggest exception being that the last syllable can be stressed if it has a long vowel followed by a consonant: **Eldirîn** (marked accusative of the language name, **Èldirin**)
 + Stress is the area where formal and colloquial usage differ most
+
+## Stress Shift
+
+Like Quenya, Eldirin resists stress shifts by one syllable when flexions are added, so the outcome might be a shift by TWO syllables. For example, the (unmarked) plural of **firyo** "cat" is **firyomi**, and the dative is generally formed by **-van**. Adding this ending would result in \*_firyomivan_, which would be stressed on _-yo-_. To avoid this, the stress shifts to the next syllable, which is lengthened: **firyomívan** (and the original stressed stem vowel receives a secondary stress).
+Such lengthened vowels can only occur in the penultimate syllable of a word, and are denoted by a macron accent, so **firyomívan** is stressed **fîryomīvan**.
+Note than this stress shift can occur in the "dictionary" form of a word, including non-derived words, e.g. **andālë** "dull".
+When more syllables are added to such a word, the vowel reverts to short, e.g. **andàletas** "it was dull".
